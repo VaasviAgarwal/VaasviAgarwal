@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VaasviAgarwal
 - 👀 I’m interested in programming (Mainly in Python and Java)
-- 🌱 I’m currently learning full stack development and am BSc Physical Science with Computer Science, second year student at Miranda House, University of Delhi.
-- 💞️ I’m looking to collaborate on Python projects and programs
+- 🌱 I’m currently learning Web development and DS and Algorithms
+- 💞️ I’m looking to collaborate on Python or Web Development
 - 📫 You can reach me through my email - agarwalvaasvi@gmail.com or my LinkedIn - https://www.linkedin.com/in/vaasvi-agarwal/
 
 <!---
